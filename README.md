@@ -103,6 +103,8 @@ project-folder/
 * Advanced filters
 * User authentication
 * Database integration
+* AI intigration
+  
 
 ---
 
